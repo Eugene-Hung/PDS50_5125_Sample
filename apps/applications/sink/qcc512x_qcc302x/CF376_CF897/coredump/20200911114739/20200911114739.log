@@ -1,0 +1,1375 @@
+coredump, version 3.2.1.31 Release
+Copyright (c) 2000-2019 Qualcomm Technologies International, Ltd.
+All Rights Reserved.
+Qualcomm Technologies International, Ltd. Confidential and Proprietary.
+
+
+This is a debug and development program. As such it is unsupported,
+undocumented and subject to change. It should only be used when directed by
+Qualcomm.
+
+Dumping multi-subsystem chip
+Waiting for 100 millisecond(s) before stopping the chip...
+architecture type
+architecture version
+dumping curator
+AST
+Low registers
+Reading addr 00000002, size 00000007
+Reading addr 00000011, size 0000006F
+dumping ram block (start = 8000, length = 400)
+dumping ram block (start = 8400, length = 400)
+dumping ram block (start = 8800, length = 400)
+dumping ram block (start = 8c00, length = 400)
+dumping ram block (start = 9000, length = 400)
+dumping ram block (start = 9400, length = 400)
+dumping ram block (start = 9800, length = 400)
+dumping ram block (start = 9c00, length = 400)
+dumping ram block (start = a000, length = 400)
+dumping ram block (start = a400, length = 400)
+dumping ram block (start = a800, length = 400)
+dumping ram block (start = ac00, length = 400)
+dumping ram block (start = b000, length = 400)
+dumping ram block (start = b400, length = 400)
+dumping ram block (start = b800, length = 400)
+dumping ram block (start = bc00, length = 400)
+High registers
+Reading addr 0000F000, size 0000042E
+Reading addr 0000F430, size 0000002A
+Reading addr 0000F46A, size 00000120
+Reading addr 0000F58E, size 00000172
+Reading addr 0000F800, size 00000078
+Reading addr 0000F87A, size 000000A1
+Reading addr 0000F91D, size 00000132
+Reading addr 0000FA50, size 000005A0
+Janitor keep-alive RAM
+Reading...
+Dumping...
+dumping hostio
+Configured debugger access to per-subsystem registers
+USB
+usb2 subsystem module
+Reading addr 00000100, size 00000000
+Non-sensible read request encountered (and skipped)!!! (address=0x007b7808, count=0x00)
+Dumping banked block corresponding to register 0x00500190
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+Reading addr 00000100, size 0000004D
+usb2 subsystem module
+Reading addr 00002100, size 00000000
+Non-sensible read request encountered (and skipped)!!! (address=0x007b7818, count=0x00)
+Dumping banked block corresponding to register 0x00510190
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+Reading addr 00002100, size 0000004D
+usb2 subsystem module
+Reading addr 00003100, size 00000000
+Non-sensible read request encountered (and skipped)!!! (address=0x007b77a8, count=0x00)
+Dumping banked block corresponding to register 0x00518190
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+Reading addr 00003100, size 0000004D
+usb2 subsystem module
+Reading addr 00004100, size 00000000
+Non-sensible read request encountered (and skipped)!!! (address=0x007b76a8, count=0x00)
+Dumping banked block corresponding to register 0x00520190
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+Reading addr 00004100, size 0000004D
+usb2 subsystem module
+Reading addr 00005100, size 00000000
+Non-sensible read request encountered (and skipped)!!! (address=0x007b76a8, count=0x00)
+Dumping banked block corresponding to register 0x00528190
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00005100, size 0000004D
+Reading addr 00000180, size 00000021
+Reading addr 00002180, size 00000021
+Reading addr 00003180, size 00000021
+Reading addr 00004180, size 00000021
+Reading addr 00005180, size 00000021
+Reading addr 00000D00, size 00000027
+dumping bt
+dumping processor registers
+dumping look-up table (start = 80)
+dumping register block (start = 0, length = 9)
+dumping register block (start = 9, length = 8)
+dumping register block (start = 11, length = 6f)
+dumping ram block (start = 8000, length = 400)
+dumping ram block (start = 8400, length = 400)
+dumping ram block (start = 8800, length = 400)
+dumping ram block (start = 8c00, length = 400)
+dumping ram block (start = 9000, length = 400)
+dumping ram block (start = 9400, length = 400)
+dumping ram block (start = 9800, length = 400)
+dumping ram block (start = 9c00, length = 400)
+dumping ram block (start = a000, length = 400)
+dumping ram block (start = a400, length = 400)
+dumping ram block (start = a800, length = 400)
+dumping ram block (start = ac00, length = 400)
+dumping ram block (start = b000, length = 400)
+dumping ram block (start = b400, length = 400)
+dumping ram block (start = b800, length = 400)
+dumping ram block (start = bc00, length = 400)
+dumping ram block (start = c000, length = 400)
+dumping ram block (start = c400, length = 400)
+dumping ram block (start = c800, length = 400)
+dumping ram block (start = cc00, length = 400)
+dumping ram block (start = d000, length = 400)
+dumping ram block (start = d400, length = 400)
+dumping ram block (start = d800, length = 400)
+dumping ram block (start = dc00, length = 400)
+dumping ram block (start = e000, length = 400)
+dumping ram block (start = e400, length = 400)
+dumping ram block (start = e800, length = 400)
+dumping ram block (start = ec00, length = 400)
+dumping ram block (start = f000, length = 400)
+dumping ram block (start = f400, length = 400)
+dumping ram block (start = f800, length = 10)
+dumping register f810
+dumping ram block (start = f811, length = 3ef)
+dumping ram block (start = fc00, length = 100)
+dumping ram block (start = fd00, length = 47)
+dumping register block (start = fd47, length = 2)
+dumping ram block (start = fd49, length = b7)
+dumping ram block (start = fe00, length = 100)
+dumping ram block (start = ff00, length = e0)
+dumping ps
+dumping ps
+Dumping banked registers
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register f5b2
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping register block (start = fb33, length = 3)
+dumping patch ram
+Reading addr 00010000, size 00004000
+dumping audio
+Group <DM1 RAM> at [0x0:0x40000]
+Reading addr 00000000, size 00000800
+Reading addr 00002000, size 00000800
+Reading addr 00004000, size 00000800
+Reading addr 00006000, size 00000800
+Reading addr 00008000, size 00000800
+Reading addr 0000A000, size 00000800
+Reading addr 0000C000, size 00000800
+Reading addr 0000E000, size 00000800
+Reading addr 00010000, size 00000800
+Reading addr 00012000, size 00000800
+Reading addr 00014000, size 00000800
+Reading addr 00016000, size 00000800
+Reading addr 00018000, size 00000800
+Reading addr 0001A000, size 00000800
+Reading addr 0001C000, size 00000800
+Reading addr 0001E000, size 00000800
+Reading addr 00020000, size 00000800
+Reading addr 00022000, size 00000800
+Reading addr 00024000, size 00000800
+Reading addr 00026000, size 00000800
+Reading addr 00028000, size 00000800
+Reading addr 0002A000, size 00000800
+Reading addr 0002C000, size 00000800
+Reading addr 0002E000, size 00000800
+Reading addr 00030000, size 00000800
+Reading addr 00032000, size 00000800
+Reading addr 00034000, size 00000800
+Reading addr 00036000, size 00000800
+Reading addr 00038000, size 00000800
+Reading addr 0003A000, size 00000800
+Reading addr 0003C000, size 00000800
+Reading addr 0003E000, size 00000800
+Group <PM RAM> at [0x4000000:0x4014000]
+Reading addr 04000000, size 00000800
+Reading addr 04002000, size 00000800
+Reading addr 04004000, size 00000800
+Reading addr 04006000, size 00000800
+Reading addr 04008000, size 00000800
+Reading addr 0400A000, size 00000800
+Reading addr 0400C000, size 00000800
+Reading addr 0400E000, size 00000800
+Reading addr 04010000, size 00000800
+Reading addr 04012000, size 00000800
+Group <Common Mem-mapped Regs> at [0xffff8000:0xffffc000]
+Dumping registers in PCM bank
+Group <PCM regs> at [0xffff8c00:0xffff8c78]
+Group <PCM regs> at [0xffff8c00:0xffff8c78]
+Group <PCM regs> at [0xffff8c00:0xffff8c78]
+Group <PCM regs> at [0xffff8c00:0xffff8c78]
+Dumping registers in SPDIF bank
+Group <SPDIF regs> at [0xffff8c80:0xffff8cec]
+Group <SPDIF regs> at [0xffff8c80:0xffff8cec]
+Group <SPDIF regs> at [0xffff8c80:0xffff8cec]
+Group <SPDIF regs> at [0xffff8c80:0xffff8cec]
+Group <P0 Private RAM> at [0x0:0x1000]
+Reading addr 00000000, size 00000400
+Group <P0 Remote Window 0> at [0x800000:0x800400]
+Reading addr 00800000, size 00000100
+Group <P0 Remote Window 1> at [0x900000:0x900400]
+Reading addr 00900000, size 00000100
+Group <P0 Remote Window 2> at [0xa00000:0xa00400]
+Reading addr 00A00000, size 00000100
+Group <P0 Remote Window 3> at [0xb00000:0xb00400]
+Reading addr 00B00000, size 00000100
+Group <subsys regs> at [0xffffc000:0xffffe000]
+Group <CPU regs> at [0xffffe000:0xfffffe00]
+Group <Debug regs> at [0xfffffe00:0x0]
+Dumping registers in Interrupt bank
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Dumping registers in Bus intr bank
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Dumping registers in BAC RD stream bank
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Dumping registers in BAC WR stream bank
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Reading DSP Registers
+Group <P1 Private RAM> at [0x0:0x1000]
+Reading addr 00000000, size 00000400
+Group <P1 Remote Window 0> at [0x800000:0x800400]
+Reading addr 00800000, size 00000100
+Group <P1 Remote Window 1> at [0x900000:0x900400]
+Reading addr 00900000, size 00000100
+Group <P1 Remote Window 2> at [0xa00000:0xa00400]
+Reading addr 00A00000, size 00000100
+Group <P1 Remote Window 3> at [0xb00000:0xb00400]
+Reading addr 00B00000, size 00000100
+Group <subsys regs> at [0xffffc000:0xffffe000]
+Group <CPU regs> at [0xffffe000:0xfffffe00]
+Group <Debug regs> at [0xfffffe00:0x0]
+Dumping registers in Interrupt bank
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Group <Int reg> at [0xffffe224:0xffffe228]
+Dumping registers in Bus intr bank
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Group <Bus Int regs> at [0xffffc004:0xffffc01c]
+Dumping registers in BAC RD stream bank
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Group <BAC_RD_STREAM_CONFIG> at [0xffffc118:0xffffc11c]
+Group <BAC_RD_STREAM_CONFIG_STATUS> at [0xffffc120:0xffffc124]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST> at [0xffffc128:0xffffc12c]
+Group <BAC_RD_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc130:0xffffc134]
+Dumping registers in BAC WR stream bank
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Group <BAC_WR_STREAM_CONFIG> at [0xffffc11c:0xffffc120]
+Group <BAC_WR_STREAM_CONFIG_STATUS> at [0xffffc124:0xffffc128]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST> at [0xffffc12c:0xffffc130]
+Group <BAC_WR_STREAM_THRESHOLD_ADJUST_STATUS> at [0xffffc134:0xffffc138]
+Reading DSP Registers
+dumping app
+core_hyd_app: digital version not specified, assuming D00
+core_hyd_app: Coredump assumes digital revision is 'ast_d00', register hash 0x3fb7
+core_hyd_app: <led> block is not clocked, registers dump is DISABLED
+core_hyd_app: <sdio_host> block is not clocked, registers dump is DISABLED
+Dumping P0
+ Dumping RAMs
+Group <P0 data RAM> at [0x0:0x7fff]
+Reading addr 00000000, size 00000100
+Reading addr 00000400, size 00000100
+Reading addr 00000800, size 00000100
+Reading addr 00000C00, size 00000100
+Reading addr 00001000, size 00000100
+Reading addr 00001400, size 00000100
+Reading addr 00001800, size 00000100
+Reading addr 00001C00, size 00000100
+Reading addr 00002000, size 00000100
+Reading addr 00002400, size 00000100
+Reading addr 00002800, size 00000100
+Reading addr 00002C00, size 00000100
+Reading addr 00003000, size 00000100
+Reading addr 00003400, size 00000100
+Reading addr 00003800, size 00000100
+Reading addr 00003C00, size 00000100
+Reading addr 00004000, size 00000100
+Reading addr 00004400, size 00000100
+Reading addr 00004800, size 00000100
+Reading addr 00004C00, size 00000100
+Reading addr 00005000, size 00000100
+Reading addr 00005400, size 00000100
+Reading addr 00005800, size 00000100
+Reading addr 00005C00, size 00000100
+Reading addr 00006000, size 00000100
+Reading addr 00006400, size 00000100
+Reading addr 00006800, size 00000100
+Reading addr 00006C00, size 00000100
+Reading addr 00007000, size 00000100
+Reading addr 00007400, size 00000100
+Reading addr 00007800, size 00000100
+Reading addr 00007C00, size 00000100
+Group <P1 data RAM> at [0x10000:0x17fff]
+Reading addr 00010000, size 00000100
+Reading addr 00010400, size 00000100
+Reading addr 00010800, size 00000100
+Reading addr 00010C00, size 00000100
+Reading addr 00011000, size 00000100
+Reading addr 00011400, size 00000100
+Reading addr 00011800, size 00000100
+Reading addr 00011C00, size 00000100
+Reading addr 00012000, size 00000100
+Reading addr 00012400, size 00000100
+Reading addr 00012800, size 00000100
+Reading addr 00012C00, size 00000100
+Reading addr 00013000, size 00000100
+Reading addr 00013400, size 00000100
+Reading addr 00013800, size 00000100
+Reading addr 00013C00, size 00000100
+Reading addr 00014000, size 00000100
+Reading addr 00014400, size 00000100
+Reading addr 00014800, size 00000100
+Reading addr 00014C00, size 00000100
+Reading addr 00015000, size 00000100
+Reading addr 00015400, size 00000100
+Reading addr 00015800, size 00000100
+Reading addr 00015C00, size 00000100
+Reading addr 00016000, size 00000100
+Reading addr 00016400, size 00000100
+Reading addr 00016800, size 00000100
+Reading addr 00016C00, size 00000100
+Reading addr 00017000, size 00000100
+Reading addr 00017400, size 00000100
+Reading addr 00017800, size 00000100
+Reading addr 00017C00, size 00000100
+Group <Shared RAM> at [0x10000000:0x10007fff]
+Reading addr 10000000, size 00000100
+Reading addr 10000400, size 00000100
+Reading addr 10000800, size 00000100
+Reading addr 10000C00, size 00000100
+Reading addr 10001000, size 00000100
+Reading addr 10001400, size 00000100
+Reading addr 10001800, size 00000100
+Reading addr 10001C00, size 00000100
+Reading addr 10002000, size 00000100
+Reading addr 10002400, size 00000100
+Reading addr 10002800, size 00000100
+Reading addr 10002C00, size 00000100
+Reading addr 10003000, size 00000100
+Reading addr 10003400, size 00000100
+Reading addr 10003800, size 00000100
+Reading addr 10003C00, size 00000100
+Reading addr 10004000, size 00000100
+Reading addr 10004400, size 00000100
+Reading addr 10004800, size 00000100
+Reading addr 10004C00, size 00000100
+Reading addr 10005000, size 00000100
+Reading addr 10005400, size 00000100
+Reading addr 10005800, size 00000100
+Reading addr 10005C00, size 00000100
+Reading addr 10006000, size 00000100
+Reading addr 10006400, size 00000100
+Reading addr 10006800, size 00000100
+Reading addr 10006C00, size 00000100
+Reading addr 10007000, size 00000100
+Reading addr 10007400, size 00000100
+Reading addr 10007800, size 00000100
+Reading addr 10007C00, size 00000100
+Group <TCM0> at [0x20000000:0x20001fff]
+Reading addr 20000000, size 00000100
+Reading addr 20000400, size 00000100
+Reading addr 20000800, size 00000100
+Reading addr 20000C00, size 00000100
+Reading addr 20001000, size 00000100
+Reading addr 20001400, size 00000100
+Reading addr 20001800, size 00000100
+Reading addr 20001C00, size 00000100
+Group <TCM1> at [0x20002000:0x20003fff]
+Reading addr 20002000, size 00000100
+Reading addr 20002400, size 00000100
+Reading addr 20002800, size 00000100
+Reading addr 20002C00, size 00000100
+Reading addr 20003000, size 00000100
+Reading addr 20003400, size 00000100
+Reading addr 20003800, size 00000100
+Reading addr 20003C00, size 00000100
+Group <p0 cache> at [0x30000000:0x30007fff]
+Reading addr 30000000, size 00000100
+Reading addr 30000400, size 00000100
+Reading addr 30000800, size 00000100
+Reading addr 30000C00, size 00000100
+Reading addr 30001000, size 00000100
+Reading addr 30001400, size 00000100
+Reading addr 30001800, size 00000100
+Reading addr 30001C00, size 00000100
+Reading addr 30002000, size 00000100
+Reading addr 30002400, size 00000100
+Reading addr 30002800, size 00000100
+Reading addr 30002C00, size 00000100
+Reading addr 30003000, size 00000100
+Reading addr 30003400, size 00000100
+Reading addr 30003800, size 00000100
+Reading addr 30003C00, size 00000100
+Reading addr 30004000, size 00000100
+Reading addr 30004400, size 00000100
+Reading addr 30004800, size 00000100
+Reading addr 30004C00, size 00000100
+Reading addr 30005000, size 00000100
+Reading addr 30005400, size 00000100
+Reading addr 30005800, size 00000100
+Reading addr 30005C00, size 00000100
+Reading addr 30006000, size 00000100
+Reading addr 30006400, size 00000100
+Reading addr 30006800, size 00000100
+Reading addr 30006C00, size 00000100
+Reading addr 30007000, size 00000100
+Reading addr 30007400, size 00000100
+Reading addr 30007800, size 00000100
+Reading addr 30007C00, size 00000100
+Group <p0 cache tag> at [0x30008000:0x300087ff]
+Reading addr 30008000, size 00000100
+Reading addr 30008400, size 00000100
+Group <p1 cache> at [0x30030000:0x30033fff]
+Reading addr 30030000, size 00000100
+Reading addr 30030400, size 00000100
+Reading addr 30030800, size 00000100
+Reading addr 30030C00, size 00000100
+Reading addr 30031000, size 00000100
+Reading addr 30031400, size 00000100
+Reading addr 30031800, size 00000100
+Reading addr 30031C00, size 00000100
+Reading addr 30032000, size 00000100
+Reading addr 30032400, size 00000100
+Reading addr 30032800, size 00000100
+Reading addr 30032C00, size 00000100
+Reading addr 30033000, size 00000100
+Reading addr 30033400, size 00000100
+Reading addr 30033800, size 00000100
+Reading addr 30033C00, size 00000100
+Group <p1 cache tag> at [0x30034000:0x300343ff]
+Reading addr 30034000, size 00000100
+ Dumping registers
+Group <common0> at [0xffff9000:0xffff93ff]
+Reading addr FFFF9000, size 00000100
+Group <led> at [0xffff9400:0xffff94ff]
+SKIPPED
+Group <common1> at [0xffff9500:0xffff9fff]
+Reading addr FFFF9500, size 00000100
+Reading addr FFFF9900, size 00000100
+Reading addr FFFF9D00, size 000000C0
+Group <sdio_host> at [0xffffd000:0xffffd3ff]
+SKIPPED
+Group <kalimba> at [0xffff8000:0xffff8fff]
+Reading addr FFFF8000, size 00000100
+Reading addr FFFF8400, size 00000100
+Reading addr FFFF8800, size 00000100
+Reading addr FFFF8C00, size 00000100
+Group <kalimba debug> at [0xfffff000:0xffffffff]
+Reading addr FFFFF000, size 00000100
+Reading addr FFFFF400, size 00000100
+Reading addr FFFFF800, size 00000100
+Reading addr FFFFFC00, size 00000100
+ Dumping banked registers
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Reading addr FFFF9054, size 00000006
+Dumping P1
+ Dumping RAMs
+Group <P1 data RAM> at [0x10000:0x17fff]
+Reading addr 00010000, size 00000100
+Reading addr 00010400, size 00000100
+Reading addr 00010800, size 00000100
+Reading addr 00010C00, size 00000100
+Reading addr 00011000, size 00000100
+Reading addr 00011400, size 00000100
+Reading addr 00011800, size 00000100
+Reading addr 00011C00, size 00000100
+Reading addr 00012000, size 00000100
+Reading addr 00012400, size 00000100
+Reading addr 00012800, size 00000100
+Reading addr 00012C00, size 00000100
+Reading addr 00013000, size 00000100
+Reading addr 00013400, size 00000100
+Reading addr 00013800, size 00000100
+Reading addr 00013C00, size 00000100
+Reading addr 00014000, size 00000100
+Reading addr 00014400, size 00000100
+Reading addr 00014800, size 00000100
+Reading addr 00014C00, size 00000100
+Reading addr 00015000, size 00000100
+Reading addr 00015400, size 00000100
+Reading addr 00015800, size 00000100
+Reading addr 00015C00, size 00000100
+Reading addr 00016000, size 00000100
+Reading addr 00016400, size 00000100
+Reading addr 00016800, size 00000100
+Reading addr 00016C00, size 00000100
+Reading addr 00017000, size 00000100
+Reading addr 00017400, size 00000100
+Reading addr 00017800, size 00000100
+Reading addr 00017C00, size 00000100
+Group <Shared RAM> at [0x10000000:0x10007fff]
+Reading addr 10000000, size 00000100
+Reading addr 10000400, size 00000100
+Reading addr 10000800, size 00000100
+Reading addr 10000C00, size 00000100
+Reading addr 10001000, size 00000100
+Reading addr 10001400, size 00000100
+Reading addr 10001800, size 00000100
+Reading addr 10001C00, size 00000100
+Reading addr 10002000, size 00000100
+Reading addr 10002400, size 00000100
+Reading addr 10002800, size 00000100
+Reading addr 10002C00, size 00000100
+Reading addr 10003000, size 00000100
+Reading addr 10003400, size 00000100
+Reading addr 10003800, size 00000100
+Reading addr 10003C00, size 00000100
+Reading addr 10004000, size 00000100
+Reading addr 10004400, size 00000100
+Reading addr 10004800, size 00000100
+Reading addr 10004C00, size 00000100
+Reading addr 10005000, size 00000100
+Reading addr 10005400, size 00000100
+Reading addr 10005800, size 00000100
+Reading addr 10005C00, size 00000100
+Reading addr 10006000, size 00000100
+Reading addr 10006400, size 00000100
+Reading addr 10006800, size 00000100
+Reading addr 10006C00, size 00000100
+Reading addr 10007000, size 00000100
+Reading addr 10007400, size 00000100
+Reading addr 10007800, size 00000100
+Reading addr 10007C00, size 00000100
+Group <TCM1> at [0x20002000:0x20003fff]
+Reading addr 20002000, size 00000100
+Reading addr 20002400, size 00000100
+Reading addr 20002800, size 00000100
+Reading addr 20002C00, size 00000100
+Reading addr 20003000, size 00000100
+Reading addr 20003400, size 00000100
+Reading addr 20003800, size 00000100
+Reading addr 20003C00, size 00000100
+Group <p1 cache> at [0x30030000:0x30033fff]
+Reading addr 30030000, size 00000100
+Reading addr 30030400, size 00000100
+Reading addr 30030800, size 00000100
+Reading addr 30030C00, size 00000100
+Reading addr 30031000, size 00000100
+Reading addr 30031400, size 00000100
+Reading addr 30031800, size 00000100
+Reading addr 30031C00, size 00000100
+Reading addr 30032000, size 00000100
+Reading addr 30032400, size 00000100
+Reading addr 30032800, size 00000100
+Reading addr 30032C00, size 00000100
+Reading addr 30033000, size 00000100
+Reading addr 30033400, size 00000100
+Reading addr 30033800, size 00000100
+Reading addr 30033C00, size 00000100
+Group <p1 cache tag> at [0x30034000:0x300343ff]
+Reading addr 30034000, size 00000100
+ Dumping registers
+Group <kalimba> at [0xffff8000:0xffff8fff]
+Reading addr FFFF8000, size 00000100
+Reading addr FFFF8400, size 00000100
+Reading addr FFFF8800, size 00000100
+Reading addr FFFF8C00, size 00000100
+Group <kalimba debug> at [0xfffff000:0xffffffff]
+Reading addr FFFFF000, size 00000100
+Reading addr FFFFF400, size 00000100
+Reading addr FFFFF800, size 00000100
+Reading addr FFFFFC00, size 00000100
+ Dumping banked registers
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+Reading addr FFFF8124, size 00000001
+subsystem pio ignored as not powered
+Success
+
+coredump -usbdbg 102 C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\coredump\20200911114739\20200911114739.xcd : (trans=USBDBG port=102) concluded with Success

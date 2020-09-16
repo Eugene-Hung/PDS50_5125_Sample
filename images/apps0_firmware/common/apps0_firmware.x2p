@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project name="apps0_firmware" path="C:/Users/278632/Desktop/BT_SPK_5125/Eugene_sample/images/apps0_firmware/common/">
+    <configurations defaultKit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}">
+        <configuration name="prebuilt_image" kit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}" options="deploy|default">
+            <deployProject>deploy</deployProject>
+            <devkitConfiguration>prebuilt_image</devkitConfiguration>
+            <devkitGroup>kitres://{bbac163c-41be-4ce7-b236-236f15ff18ca}</devkitGroup>
+            <devkitPath>../../../../../../../../qtil/ADK_QCC512X_QCC302X_WIN_6.3.2.24</devkitPath>
+            <devkitRevision>1553887472</devkitRevision>
+            <property name="BUILD_TYPE">DO_NOT_BUILD</property>
+            <property name="OUTPUT_TYPE">NONE</property>
+            <property name="SUBSYSTEM_NAME">apps0</property>
+        </configuration>
+    </configurations>
+    <file path="apps_p0_firmware.xuv"/>
+</project>

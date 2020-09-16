@@ -1,0 +1,11 @@
+
+#include "eugene_pio.h"
+
+void EugenePioInitial(void)
+{
+    PioSetMapPins32Bank(PIO_BANK(BT_TO_POWER_ON), PIO_MASK(BT_TO_POWER_ON), PIO_BITS_SOFTWARE(BT_TO_POWER_ON));
+    PioSetDir32Bank(PIO_BANK(BT_TO_POWER_ON), PIO_MASK(BT_TO_POWER_ON), PIO_BITS_DIR_OUTPUT(BT_TO_POWER_ON));    /* Set Pio as output */
+    PioSet32Bank(PIO_BANK(BT_TO_POWER_ON), PIO_MASK(BT_TO_POWER_ON), PIO_BITS_OUTPUT_HIGH(BT_TO_POWER_ON));       
+
+
+}
