@@ -9,7 +9,7 @@
 
 #include "eugene_main.h"
 
-void EugeneInitial(void)
+void EugeneInitial(void) 
 {
     uint32 test_pio = 0;
 
