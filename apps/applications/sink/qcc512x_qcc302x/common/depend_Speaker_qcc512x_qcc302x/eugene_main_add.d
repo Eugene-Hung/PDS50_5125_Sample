@@ -45,4 +45,3 @@ depend_Speaker_qcc512x_qcc302x/eugene_main_add.o: ..\..\User\eugene_main_add.c \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\file\file_if.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\pio.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\pio\pio_if.h 
-

@@ -3,7 +3,9 @@
 
 void Tca1116Initial(void)
 {
-    Tca1116WriteOneByte(TCA1116_IPPUT_PORT0_REGISTER,0x00);
+    // uint8 *tca1116_data = malloc(DATA_LENGTH);
+    // memcpy(tca1116_data,&)
+    I2cTransferBytes(TCA1116_IPPUT_PORT0_REGISTER, &tca1116_init_data, DATA_LENGTH);
 }
 
 bitserial_result Tca1116WriteOneByte(uint8 register_address, uint8 tx_data)

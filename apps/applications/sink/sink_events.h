@@ -369,6 +369,9 @@ typedef enum sinkEventsTag
 /*0x410B*/    EventUsrCompanderOff,
 /*0x410C*/    EventUsrCompanderOnOffToggle,
 
+
+/*0x410D*/    EventUsrTca1116,
+
 /* User events list cannot go past 0x43FF */
                     EventUsrLast,
 
