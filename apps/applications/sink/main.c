@@ -761,7 +761,7 @@ static bool sinkPowerProcessEventPower(const MessageId EventPower)
 
                 MAIN_DEBUG(("HS: PowerOff - En[%c]\n" , TRUE_OR_FALSE(sinkDataIsPowerOffEnabled()))) ;
 				
-                eugene_print(("DUT power off \n"));
+                EUGENE_DEBUG(("DUT power off \n"));
 				
                 /* don't indicate event if already in limbo state */
                 if(stateManagerGetState() == deviceLimbo)
@@ -1208,7 +1208,7 @@ static void handleUEMessage  ( Task task, MessageId id, Message message )
         case (EventUsrEnterPairing):
             MAIN_DEBUG(("HS: EnterPair [%d]\n" , lState )) ;
 		
-		    eugene_print(("DUT Enter Pairing \n"));
+		    EUGENE_DEBUG(("DUT Enter Pairing \n"));
 		
 #ifdef ENABLE_FAST_PAIR
             if(lState != deviceLimbo)

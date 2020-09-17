@@ -67,7 +67,7 @@ DEVKIT INFO
   system:{'device': 'plugins/debugger/device_control_hydra.dll', 'core_groups': {'app': {'p1': 'plugins/debugger/core_debug_kalimba.dll'}, 'audio': {'p0': 'plugins/debugger/core_debug_kalimba.dll', 'p1': 'plugins/debugger/core_debug_kalimba.dll'}}}
 SDB File: C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys0_config2.htf c:\users\278632\appdata\local\temp\tmpavygm6 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys0_config2.htf c:\users\278632\appdata\local\temp\tmp2fzfkn -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
@@ -149,19 +149,19 @@ DEVKIT INFO
   system:{'device': 'plugins/debugger/device_control_hydra.dll', 'core_groups': {'app': {'p1': 'plugins/debugger/core_debug_kalimba.dll'}, 'audio': {'p0': 'plugins/debugger/core_debug_kalimba.dll', 'p1': 'plugins/debugger/core_debug_kalimba.dll'}}}
 SDB File: C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys1_config1.htf c:\users\278632\appdata\local\temp\tmpfv73m3 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys1_config1.htf c:\users\278632\appdata\local\temp\tmpopsf6f -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys3_config1.htf c:\users\278632\appdata\local\temp\tmpfv73m3 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys3_config1.htf c:\users\278632\appdata\local\temp\tmpopsf6f -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys7_config3.htf c:\users\278632\appdata\local\temp\tmpfv73m3 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys7_config3.htf c:\users\278632\appdata\local\temp\tmpopsf6f -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
@@ -169,7 +169,7 @@ Success
 2 words used to enforce data alignment.
 Copying patch: C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\audio\kalimba_ROM_4786\kymera\output\stre_rom_v02_release\build\patchbin\subsys3_patch0_fw000012B2.hcf
 No EXTCONST_PATH property in project: Assuming no audio constants required
-Copying C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\images\btss_firmware\vfbga90\patches\subsys1_patch0_fw000033EF.hcf to c:\users\278632\appdata\local\temp\tmpfv73m3\subsys1_patch0_fw000033EF.hcf and removing wildcard
+Copying C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\images\btss_firmware\vfbga90\patches\subsys1_patch0_fw000033EF.hcf to c:\users\278632\appdata\local\temp\tmpopsf6f\subsys1_patch0_fw000033EF.hcf and removing wildcard
 Packing directory...
 Translating filesystem image by 0x000000
   Header block starting at 0x00000000, 12 bytes
@@ -250,31 +250,31 @@ DEVKIT INFO
   system:{'device': 'plugins/debugger/device_control_hydra.dll', 'core_groups': {'app': {'p1': 'plugins/debugger/core_debug_kalimba.dll'}, 'audio': {'p0': 'plugins/debugger/core_debug_kalimba.dll', 'p1': 'plugins/debugger/core_debug_kalimba.dll'}}}
 SDB File: C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys3_config2.htf c:\users\278632\appdata\local\temp\tmpi3mtjw -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys3_config2.htf c:\users\278632\appdata\local\temp\tmpw3ibt2 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys7_config2.htf c:\users\278632\appdata\local\temp\tmpi3mtjw -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\CF376_CF897\subsys7_config2.htf c:\users\278632\appdata\local\temp\tmpw3ibt2 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys0_config3.htf c:\users\278632\appdata\local\temp\tmpi3mtjw -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys0_config3.htf c:\users\278632\appdata\local\temp\tmpw3ibt2 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys1_config2.htf c:\users\278632\appdata\local\temp\tmpi3mtjw -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\subsys1_config2.htf c:\users\278632\appdata\local\temp\tmpw3ibt2 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
 
 
->>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\user_selected_specific_memory_type.htf c:\users\278632\appdata\local\temp\tmpi3mtjw -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
+>>> [C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\bin\ConfigCmd.exe -noprefix binary C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\applications\sink\qcc512x_qcc302x\common\user_selected_specific_memory_type.htf c:\users\278632\appdata\local\temp\tmpw3ibt2 -system QCC512X_CONFIG -quiet -database C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools\config\hydracore_config.sdb]
 Success
 
 
@@ -2042,9 +2042,9 @@ DEVKIT INFO
   system:{'device': 'plugins/debugger/device_control_hydra.dll', 'core_groups': {'app': {'p1': 'plugins/debugger/core_debug_kalimba.dll'}, 'audio': {'p0': 'plugins/debugger/core_debug_kalimba.dll', 'p1': 'plugins/debugger/core_debug_kalimba.dll'}}}
 Build using a makefile
 Added DEVKIT_ROOT=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24 to the environment
-Running C:/qtil/ADK_QCC512X_QCC302X_WIN_6.3.2.24/tools/bin/make.exe -s -f Makefile -R DEVKIT_ROOT=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24 -j12 -Otarget CONFIGS=qcc512x_qcc302x EXTRA_WARNINGS=FALSE install CHIP_TYPE=qcc512x_qcc302x BUILD_TYPE=DEBUG PRIVATE_LIBS= PRIVATE_LIBS_SEED=38796 INCPATHS= MAKEFILE_RULES_DIR=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools in C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\libs
+Running C:/qtil/ADK_QCC512X_QCC302X_WIN_6.3.2.24/tools/bin/make.exe -s -f Makefile -R DEVKIT_ROOT=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24 -j12 -Otarget CONFIGS=qcc512x_qcc302x EXTRA_WARNINGS=FALSE install CHIP_TYPE=qcc512x_qcc302x BUILD_TYPE=DEBUG PRIVATE_LIBS= PRIVATE_LIBS_SEED=50892 INCPATHS= MAKEFILE_RULES_DIR=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools in C:\Users\278632\Desktop\BT_SPK_5125\Eugene_sample\apps\libs
 
->>> [C:/qtil/ADK_QCC512X_QCC302X_WIN_6.3.2.24/tools/bin/make.exe -s -f Makefile -R DEVKIT_ROOT=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24 -j12 -Otarget CONFIGS=qcc512x_qcc302x EXTRA_WARNINGS=FALSE install CHIP_TYPE=qcc512x_qcc302x BUILD_TYPE=DEBUG PRIVATE_LIBS= PRIVATE_LIBS_SEED=38796 INCPATHS= MAKEFILE_RULES_DIR=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools]
+>>> [C:/qtil/ADK_QCC512X_QCC302X_WIN_6.3.2.24/tools/bin/make.exe -s -f Makefile -R DEVKIT_ROOT=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24 -j12 -Otarget CONFIGS=qcc512x_qcc302x EXTRA_WARNINGS=FALSE install CHIP_TYPE=qcc512x_qcc302x BUILD_TYPE=DEBUG PRIVATE_LIBS= PRIVATE_LIBS_SEED=50892 INCPATHS= MAKEFILE_RULES_DIR=C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24\tools]
 SDK is C:\qtil\ADK_QCC512X_QCC302X_WIN_6.3.2.24/tools
 BUILDING FOR qcc512x_qcc302x
 
@@ -2427,12 +2427,12 @@ Compiling ..\..\User\eugene_i2c_bus.c
 Compiling ..\..\User\eugene_main.c
 Compiling ..\..\main.c
 Generating build_id_str.c
-BUILD_ID_STRING = QTIL ADK 2020-09-15 20:35:27 @1600173327
-BUILD_ID_NUMBER = 1600173327
+BUILD_ID_STRING = QTIL ADK 2020-09-17 11:12:15 @1600312335
+BUILD_ID_NUMBER = 1600312335
 Compiling build_id_str.c
 Linking
 text	   data	    bss	    dec	    hex	filename
-489912	   1200	      0	 491112	  77e68	depend_Headset_qcc512x_qcc302x/sink.elf
+490144	   1200	      0	 491344	  77f50	depend_Headset_qcc512x_qcc302x/sink.elf
 
 
 

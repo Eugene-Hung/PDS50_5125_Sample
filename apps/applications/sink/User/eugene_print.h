@@ -6,9 +6,9 @@
 
 
 #if       (EUGENE_PRINT_SWITCH==1)
-#define   eugene_print(x)  printf x;
+#define   EUGENE_DEBUG(x)  printf x;
 #else
-#define   eugene_print(x)
+#define   EUGENE_DEBUG(x)
 #endif
 
 

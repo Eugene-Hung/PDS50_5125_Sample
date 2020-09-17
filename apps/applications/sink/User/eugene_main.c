@@ -15,12 +15,12 @@ void EugeneInitial(void)
 
     EugenePioInitial();
     
-    eugene_print(("DUT power on \n"));
+    EUGENE_DEBUG(("DUT power on \n"));
     MessageSendLater(&theSink.task, EventUsrEnterPairing, 0, 3000);
 
     test_pio = PioGet32Bank(2);
 
-    eugene_print(("-------- %X \n", test_pio));
+    EUGENE_DEBUG(("-------- %X \n", test_pio));
 
     I2cBusInit();
 }
