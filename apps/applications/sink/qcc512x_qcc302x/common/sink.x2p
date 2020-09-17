@@ -357,6 +357,8 @@
     <file path="../../User/eugene_pio.c"/>
     <file path="../../User/eugene_pio.h"/>
     <file path="../../User/eugene_print.h"/>
+    <file path="../../User/eugene_tca1116.c"/>
+    <file path="../../User/eugene_tca1116.h"/>
     <file path="../../ahi_host_trb.c"/>
     <file path="../../ahi_host_trb.h"/>
     <file path="../../ahi_host_usb.c"/>
