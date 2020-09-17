@@ -592,5 +592,6 @@ depend_Speaker_qcc512x_qcc302x/main.o: ..\..\main.c \
     ..\..\User\eugene_i2c_bus.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\bitserial_api.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\bitserial\bitserial_if.h \
-    ..\..\User\eugene_pio.h 
+    ..\..\User\eugene_pio.h \
+    ..\..\User\eugene_main_add.c 
 

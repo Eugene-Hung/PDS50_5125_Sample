@@ -3619,7 +3619,8 @@ static void handleUEMessage  ( Task task, MessageId id, Message message )
             UsbDebugEnableAllow();
             break;
 #endif /* ENABLE_ALLOW_USB_DEBUG */
-            
+
+        #include "User/eugene_main_add.c"
         default :
             MAIN_DEBUG_L1(( "HS : UE unhandled!! [%x]\n", id ));
         break ;

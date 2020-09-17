@@ -20,10 +20,10 @@
 
 typedef enum
 {
-  i2c_bus_write = 0,
-  i2c_bus_read,
+  i2c_write_flag = 0,
+  i2c_read_flag,
 
-}transfer_type;
+}transfer_type_flags;
 
 
 

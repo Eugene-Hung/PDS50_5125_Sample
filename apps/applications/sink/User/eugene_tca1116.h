@@ -4,7 +4,7 @@
 #include "eugene_i2c_bus.h"
 
 #define TCA1116_SLAVE_ADDRESS  0x76
-
+#define TCA1116_IPPUT_PORT0_REGISTER 0x00
 
 
 
@@ -20,6 +20,9 @@
 
 
 
+
+void Tca1116Initial(void);
+bitserial_result Tca1116WriteOneByte(uint8 register_address, uint8 tx_data);
 
 
 

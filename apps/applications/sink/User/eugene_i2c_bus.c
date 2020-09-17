@@ -30,7 +30,7 @@ bitserial_result I2cTransferOneByte(uint8 slave_address, uint8 register_address,
     bitserial_transfer_handle *handle_massage = NULL;
 
     BitserialChangeParam(handle_i2c_bus_0, BITSERIAL_PARAMS_I2C_DEVICE_ADDRESS, slave_address, BITSERIAL_FLAG_NO_STOP);
-    if (transfer_flag == i2c_bus_write)
+    if (transfer_flag == i2c_write_flag)
     {
         uint8 *i2c_tx_data = malloc(SLAVE_REGISTER_ADDRESS_SIZE);
 
@@ -62,7 +62,7 @@ bitserial_result I2cTransferBytes(uint8 slave_address, uint8 register_address, u
     bitserial_transfer_handle *handle_massage = NULL;
 
     BitserialChangeParam(handle_i2c_bus_0, BITSERIAL_PARAMS_I2C_DEVICE_ADDRESS, slave_address, BITSERIAL_FLAG_NO_STOP);
-    if (transfer_flag == i2c_bus_write)
+    if (transfer_flag == i2c_write_flag)
     {
         uint16 tx_data_size = size_data + 1;
         uint8 *i2c_tx_data = malloc(tx_data_size);
