@@ -24,4 +24,6 @@ void EugeneInitial(void)
     EUGENE_DEBUG(("-------- %X \n", test_pio));
 
     I2cBusInit();
+
+    
 }

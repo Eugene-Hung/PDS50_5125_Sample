@@ -41,7 +41,7 @@ bitserial_result I2cTransferOneByte(uint8 slave_address, uint8 register_address,
         i2c_tx_data[0] = register_address;
         i2c_tx_data[1] = *transfer_data;
 
-        result = BitserialTransfer(handle_i2c_bus_0, handle_massage, i2c_tx_data, 2, NULL, 0);
+        result = BitserialTransfer(handle_i2c_bus_0, handle_massage, i2c_tx_data, 2, NULL, ONLY_WRITE_DATA);
 
         free(i2c_tx_data);
         i2c_tx_data = NULL;
@@ -74,7 +74,7 @@ bitserial_result I2cTransferBytes(uint8 slave_address, uint8 register_address, u
         memcpy(&i2c_tx_data[1], transfer_data, tx_data_size);
         i2c_tx_data[0] = register_address;
 
-        result = BitserialTransfer(handle_i2c_bus_0, handle_massage, i2c_tx_data, tx_data_size, NULL, 0);
+        result = BitserialTransfer(handle_i2c_bus_0, handle_massage, i2c_tx_data, tx_data_size, NULL, ONLY_WRITE_DATA);
 
         free(i2c_tx_data);
         i2c_tx_data = NULL;

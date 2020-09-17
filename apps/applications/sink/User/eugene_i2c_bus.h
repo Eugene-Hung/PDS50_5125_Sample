@@ -10,6 +10,10 @@
 #define SLVAVE_ADDRESS 0xFF
 
 #define SLAVE_REGISTER_ADDRESS_SIZE 2
+#define ONLY_WRITE_DATA 0
+
+
+
 
 #define I2C_BUS_SCL 61
 #define I2C_BUS_SDA 60
