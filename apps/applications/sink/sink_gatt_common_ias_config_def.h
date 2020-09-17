@@ -20,7 +20,7 @@ DESCRIPTION
 
 #include "config_definition.h"
 
-#define SINK_GATT_COMMON_IAS_READONLY_CONFIG_BLK_ID 995
+#define SINK_GATT_COMMON_IAS_READONLY_CONFIG_BLK_ID 1094
 
 typedef struct {
     unsigned short ImmediateAlertStopTimeout_client_s;

@@ -16,6 +16,7 @@ void EugeneInitial(void)
     EugenePioInitial();
     
     EUGENE_DEBUG(("DUT power on \n"));
+    MessageSendLater(&theSink.task, EventUsrPowerOn, 0, 2000);
     MessageSendLater(&theSink.task, EventUsrEnterPairing, 0, 3000);
 
     test_pio = PioGet32Bank(2);

@@ -25,7 +25,7 @@ typedef struct {
     unsigned short new_cap_id;
 } dsp_capability_ids_entry_t;
 
-#define DSP_CAPABILITY_IDS_TABLE_CONFIG_BLK_ID 1673
+#define DSP_CAPABILITY_IDS_TABLE_CONFIG_BLK_ID 1900
 
 typedef struct {
     dsp_capability_ids_entry_t new_cap_id_entry[1];

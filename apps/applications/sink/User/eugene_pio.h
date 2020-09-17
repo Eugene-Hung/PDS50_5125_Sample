@@ -19,7 +19,8 @@
 #define PIO_BITS_OUTPUT_HIGH(pio)   (1UL<<(pio) % NUMBER_OF_PIOS_PER_BANK)
 
 
-#define BT_TO_POWER_ON (52)
+#define AMP_MUTE   (52)
+
 
 void EugenePioInitial(void);
 

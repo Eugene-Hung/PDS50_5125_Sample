@@ -88,7 +88,7 @@
             <property name="usb_app_stereo" alias="DEFS"></property>
             <property name="usb_hub" alias="DEFS">ENABLE_USB_HUB_SUPPORT</property>
         </configuration>
-        <configuration name="Headset" kit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}" options="clean|build|deploy|run|default">
+        <configuration name="Headset" kit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}" options="clean|build|deploy|run">
             <deployProject>deploy</deployProject>
             <devkitConfiguration>application</devkitConfiguration>
             <devkitGroup>kitres://{bbac163c-41be-4ce7-b236-236f15ff18ca}</devkitGroup>
@@ -262,7 +262,7 @@
             <property name="usb_app_stereo" alias="DEFS">ENABLE_USB_AUDIO_APP_STEREO_DESCRIPTORS</property>
             <property name="usb_hub" alias="DEFS">ENABLE_USB_HUB_SUPPORT</property>
         </configuration>
-        <configuration name="Speaker_Broadcast" kit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}" options="clean|build|deploy|run">
+        <configuration name="Speaker_Broadcast" kit="kitres://{049607bf-c81c-44a1-92bb-afc0744dcab9}" options="clean|build|deploy|run|default">
             <deployProject>deploy</deployProject>
             <devkitConfiguration>application</devkitConfiguration>
             <devkitGroup>kitres://{bbac163c-41be-4ce7-b236-236f15ff18ca}</devkitGroup>
@@ -350,6 +350,7 @@
             <property name="usb_hub" alias="DEFS">ENABLE_USB_HUB_SUPPORT</property>
         </configuration>
     </configurations>
+    <file path="../../User/eugene_i2c_bus.c"/>
     <file path="../../User/eugene_i2c_bus.h"/>
     <file path="../../User/eugene_main.c"/>
     <file path="../../User/eugene_main.h"/>

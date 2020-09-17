@@ -20,7 +20,7 @@ DESCRIPTION
 
 #include "config_definition.h"
 
-#define AVRCP_READONLY_CONFIG_BLK_ID 974
+#define AVRCP_READONLY_CONFIG_BLK_ID 971
 
 typedef struct {
     unsigned short padding:14;

@@ -397,32 +397,42 @@
         Id="Receiver Volume" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="186" 
         Id="BLE Input Monitor RO" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="187" 
         Id="Input Managet Look-up Table" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="188" 
         Id="Sink Wired Volume" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="189" 
         Id="Sink Wired Readonly Config Data" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="190" 
         Id="Sink Wired SPDIF Config Data" />
 
     <ConfigGroup 
-        Active="False" 
+        Active="True" 
         PsKeyNumber="191" 
         Id="Sink Wired I2S Config Data" />
+
+    <ConfigGroup 
+        Active="True" 
+        PsKeyNumber="192" 
+        Id="Sink Peer Writeable" />
+
+    <ConfigGroup 
+        Active="True" 
+        PsKeyNumber="193" 
+        Id="Sink Peer Readonly" />
 </PsKeyMap>

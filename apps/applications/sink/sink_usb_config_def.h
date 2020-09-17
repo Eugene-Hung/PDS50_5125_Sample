@@ -20,7 +20,7 @@ DESCRIPTION
 
 #include "config_definition.h"
 
-#define SINK_USB_READONLY_CONFIG_BLK_ID 1024
+#define SINK_USB_READONLY_CONFIG_BLK_ID 1251
 
 typedef struct {
     unsigned short device_class;
@@ -32,7 +32,7 @@ typedef struct {
     unsigned short plugin_index:4;
 } sink_usb_readonly_config_def_t;
 
-#define SINK_USB_WRITEABLE_CONFIG_BLK_ID 1030
+#define SINK_USB_WRITEABLE_CONFIG_BLK_ID 1257
 
 typedef struct {
     unsigned short usb_main_volume;

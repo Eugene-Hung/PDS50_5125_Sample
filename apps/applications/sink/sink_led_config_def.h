@@ -63,25 +63,25 @@ typedef struct {
     unsigned short TriCol_c:8;
 } PioTriColLeds_t;
 
-#define SINK_LED_STATE_PATTERN_CONFIG_BLK_ID 773
+#define SINK_LED_STATE_PATTERN_CONFIG_BLK_ID 770
 
 typedef struct {
     LEDStatePattern_t pStatePatterns[1];
 } sink_led_state_pattern_config_def_t;
 
-#define SINK_LED_EVENT_PATTERN_CONFIG_BLK_ID 857
+#define SINK_LED_EVENT_PATTERN_CONFIG_BLK_ID 854
 
 typedef struct {
     LEDEventPattern_t pEventPatterns[1];
 } sink_led_event_pattern_config_def_t;
 
-#define SINK_LED_EVENT_FILTER_CONFIG_BLK_ID 886
+#define SINK_LED_EVENT_FILTER_CONFIG_BLK_ID 883
 
 typedef struct {
     LEDFilter_t pEventFilters[1];
 } sink_led_event_filter_config_def_t;
 
-#define SINK_LED_READONLY_CONFIG_BLK_ID 962
+#define SINK_LED_READONLY_CONFIG_BLK_ID 959
 
 typedef struct {
     PioTriColLeds_t TriColLeds;
@@ -94,7 +94,7 @@ typedef struct {
     unsigned short LedEnablePIO:8;
 } sink_led_readonly_config_def_t;
 
-#define SINK_LED_SESSION_CONFIG_BLK_ID 969
+#define SINK_LED_SESSION_CONFIG_BLK_ID 966
 
 typedef struct {
     unsigned short padding:15;

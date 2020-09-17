@@ -47,10 +47,8 @@ depend_Speaker_Broadcast_qcc512x_qcc302x/eugene_main.o: ..\..\User\eugene_main.c
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\pio\pio_if.h \
     ..\..\User\eugene_main.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
-    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
-    ..\..\User\..\sink_pio.h \
-    ..\..\..\..\installed_libs\include\standard\csrtypes.h \
-    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
+    ..\..\User\..\sink_main_task.h \
+    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
     ..\..\User\..\sink_events.h \
     ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\connection.h \
     ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\connection_no_ble.h \
@@ -62,8 +60,15 @@ depend_Speaker_Broadcast_qcc512x_qcc302x/eugene_main.o: ..\..\User\eugene_main.c
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\csb_.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\message\system_message.h \
-    ..\..\User\..\sink_main_task.h \
-    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
+    ..\..\User\eugene_print.h \
+    ..\..\User\eugene_pio.h \
+    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
+    ..\..\User\..\sink_pio.h \
+    ..\..\..\..\installed_libs\include\standard\csrtypes.h \
+    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
     ..\..\User\..\sink_events.h \
-    ..\..\User\eugene_print.h 
+    ..\..\User\eugene_i2c_bus.h \
+    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\bitserial_api.h \
+    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\bitserial\bitserial_if.h \
+    ..\..\User\eugene_pio.h 
 

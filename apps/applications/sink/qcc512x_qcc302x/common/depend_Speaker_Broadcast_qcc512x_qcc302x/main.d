@@ -580,9 +580,14 @@ depend_Speaker_Broadcast_qcc512x_qcc302x/main.o: ..\..\main.c \
     ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\display_plugin_if.h \
     ..\..\User\eugene_main.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
-    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
-    ..\..\User\..\sink_pio.h \
     ..\..\User\..\sink_main_task.h \
     ..\..\User\..\sink_events.h \
-    ..\..\User\eugene_print.h 
+    ..\..\User\eugene_print.h \
+    ..\..\User\eugene_pio.h \
+    ..\..\..\..\installed_libs\include\profiles\default_qcc512x_qcc302x\pio_common.h \
+    ..\..\User\..\sink_pio.h \
+    ..\..\User\eugene_i2c_bus.h \
+    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\bitserial_api.h \
+    ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\bitserial\bitserial_if.h \
+    ..\..\User\eugene_pio.h 
 
