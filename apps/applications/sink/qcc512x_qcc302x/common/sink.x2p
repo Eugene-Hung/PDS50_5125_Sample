@@ -354,7 +354,6 @@
     <file path="../../User/eugene_i2c_bus.h"/>
     <file path="../../User/eugene_main.c"/>
     <file path="../../User/eugene_main.h"/>
-    <file path="../../User/eugene_main_add.c"/>
     <file path="../../User/eugene_pio.c"/>
     <file path="../../User/eugene_pio.h"/>
     <file path="../../User/eugene_print.h"/>

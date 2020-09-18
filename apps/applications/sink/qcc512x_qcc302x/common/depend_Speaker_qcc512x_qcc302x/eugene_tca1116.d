@@ -65,3 +65,4 @@ depend_Speaker_qcc512x_qcc302x/eugene_tca1116.o: ..\..\User\eugene_tca1116.c \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\csb_.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\message.h \
     ..\..\..\..\installed_libs\include\firmware_qcc512x_qcc302x\app\message\system_message.h 
+
